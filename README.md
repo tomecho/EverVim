@@ -38,7 +38,7 @@ Before you started, please read the [Wiki](https://github.com/LER0ever/EverVim/w
 </details>
 <details>
 <summary>1. Install prerequisites and patched font</summary>
-<li>Download and install the [Knack Nerd Font](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/Hack/Regular/complete/Knack%20Regular%20Nerd%20Font%20Complete%20Mono.ttf)</li>
+<li>Download and install the [Knack Nerd Font](https://github.com/enricobacis/.dotfiles/blob/master/osx-fonts/Library/Fonts/Knack%20Regular%20Nerd%20Font%20Complete.ttf?raw=true)</li>
 <li>Make **git, curl** is on your system. Python is also needed for Linux. Ctags is optional but highly recommended.</li>
 </details>
 
